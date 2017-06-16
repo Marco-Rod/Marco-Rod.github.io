@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Marco Antonio's CV 
+description: Marco Antonio's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
@@ -70,7 +70,7 @@ author:
   programmingSkills:
     - skill1:
       name: Python
-      percentage: 70%
+      percentage: 65%
     - skill2:
       name: Django
       percentage: 75%
@@ -83,3 +83,12 @@ author:
     - skill5:
       name: Jquery
       percentage: 70%
+    - skill6:
+      name: Django-rest-framework
+      percentage: 60%
+    - skill7:
+      name: JasperReports
+      percentage: 75%
+    - skill8:
+      name: HTML
+      percentage: 90%
