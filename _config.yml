@@ -1,7 +1,7 @@
 # Site settings
 title: Marco Antonio's CV 
 description: Marco Antonio's CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/avatar.jpeg
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
