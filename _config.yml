@@ -14,14 +14,14 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Marco Antonio Rodriguez Torres
+  title: Web Developer
+  address: Av. Adolfo López Mateos Sur, Col. Gustavo Díaz Ordaz CP. 45080 Zapopan, Jalisco, México.
+  email: mrc5622@gmail.com
+  link: 
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
+  github: Marco-Rod
+  linkedin: marco-antonio-rodriguez-torres-10a61242
   twitter: ddbullfrog
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
