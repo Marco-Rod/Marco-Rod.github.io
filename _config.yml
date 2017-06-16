@@ -16,7 +16,7 @@ exclude: [vendor]
 author:
   name: Marco Antonio Rodriguez Torres
   title: Web Developer
-  address: Av. Adolfo López Mateos Sur CP. 45080 Zapopan, Jalisco, México.
+  address: Av. Adolfo López Mateos Sur. CP. 45080 Zapopan, Jalisco, México.
   email: mrc5622@gmail.com
   link: 
   weibo:
@@ -59,27 +59,27 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Spanish
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
+      proficiency: Limit
     - language3:
       name: Japanese
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: Python
+      percentage: 70%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Django
+      percentage: 75%
     - skill3:
+      name: SQL
+      percentage: 75%
+    - skill4:
       name: JavaScript
       percentage: 70%
-    - skill4:
-      name: AngularJS
-      percentage: 70%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: Jquery
+      percentage: 70%
